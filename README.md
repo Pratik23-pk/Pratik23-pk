@@ -39,9 +39,13 @@ I build practical AI systems that connect modeling, retrieval, backend engineeri
 
 ## GitHub Snapshot
 
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik23-pk&show_icons=true&hide_border=true&theme=transparent)
+![GitHub followers](https://img.shields.io/github/followers/Pratik23-pk?style=for-the-badge&logo=github&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/Pratik23-pk?style=for-the-badge&logo=github&label=Stars)
+![Profile views](https://komarev.com/ghpvc/?username=Pratik23-pk&style=for-the-badge&color=0f766e)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik23-pk&layout=compact&hide_border=true&theme=transparent)
+- Strongest public work currently centers on AI engineering, RAG, audio intelligence, and MLOps.
+- Current flagship repos: Mermaid Research Copilot, Workforce Intelligence MLOps, Bowel Sound Detection AI, and Book Recommender System.
+- GitHub profile now focuses on practical systems work rather than generic student-style stats cards.
 
 ## Open To
 
