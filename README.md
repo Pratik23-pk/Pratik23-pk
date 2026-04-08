@@ -1,39 +1,48 @@
 # Pratik Kanjilal
 
-AI Engineer focused on building practical machine learning systems across deep learning, audio intelligence, recommender-style retrieval, and production-ready AI backends.
+### AI Engineer | Deep Learning | Audio AI | RAG | Recommender Systems | MLOps
 
-## Current Expertise
+I build practical AI systems that connect modeling, retrieval, backend engineering, and deployment. My current work focuses on deep learning, audio intelligence, recommender-style retrieval, RAG applications, and production-ready AI backends with FastAPI, Django, and MLOps tooling.
+
+## What I Work On
 
 - Deep learning with PyTorch for applied AI systems
-- Audio AI and audio signal processing
+- Audio AI and audio signal processing workflows
 - Retrieval-augmented generation and hybrid retrieval pipelines
 - Recommender systems, ranking, reranking, and context optimization
 - FastAPI and Django backend development for AI products
 - MLOps with DVC, MLflow, Docker, CI/CD, and deployment workflows
 
-## What I Build
+## Featured Projects
 
-- RAG applications that combine retrieval quality with prompt-cost control
-- Deep learning pipelines for real-world prediction and classification problems
-- Audio-based ML systems for domain-specific analysis
-- End-to-end AI products with both modeling and backend engineering
+- [Mermaid Research Copilot](https://github.com/Pratik23-pk/mermaid_researchCopilot)  
+  Dual-service RAG system with Django auth, FastAPI ingestion, hybrid vector plus lexical retrieval, reranking, diversity filtering, and per-user ChromaDB storage.
 
-## Selected Work
+- [Workforce Intelligence MLOps](https://github.com/Pratik23-pk/workforce-mlops)  
+  End-to-end workforce forecasting platform with PyTorch multi-task learning, DVC, MLflow, Docker, GitHub Actions, and GitOps-ready deployment.
 
-- Mermaid Research Copilot: dual-service RAG system with Django auth, FastAPI ingestion, hybrid vector plus lexical retrieval, reranking, diversity filtering, and per-user ChromaDB storage
-- Workforce Intelligence MLOps: multi-task workforce forecasting platform with PyTorch, DVC, MLflow, Docker, Kubernetes, and GitHub Actions
-- Audio intelligence projects focused on classification, feature engineering, and signal-processing-driven deep learning workflows
+- [Bowel Sound Detection AI](https://github.com/Pratik23-pk/bowel_sound_app_COMPLETE)  
+  Deep learning system for biomedical audio classification using CRNN models, MFCC features, and signal-processing-driven pipelines.
+
+- [Book Recommender System](https://github.com/Pratik23-pk/book-recommender-system)  
+  Personalized recommendation project focused on ranking logic, relevance, and user-centric recommendation workflows.
+
+## Current Focus
+
+- Building AI engineer style products that connect models, retrieval, APIs, and deployment
+- Improving retrieval quality while reducing LLM context cost
+- Going deeper into applied deep learning, audio AI, and recommender-style AI systems
 
 ## Tech Stack
 
 `Python` `PyTorch` `scikit-learn` `FastAPI` `Django` `ChromaDB` `RAG` `Recommender Systems` `Audio Signal Processing` `MLflow` `DVC` `Docker` `GitHub Actions`
 
-## Current Focus
+## GitHub Snapshot
 
-- Building AI engineer style systems that connect models, retrieval, APIs, and deployment
-- Improving retrieval quality and reducing LLM context cost
-- Growing deeper in applied deep learning, audio AI, and production ML systems
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik23-pk&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik23-pk&layout=compact&hide_border=true&theme=transparent)
 
 ## Open To
 
-AI Engineer, Applied AI, ML Engineer, and backend-for-AI opportunities, along with interesting collaborations in deep learning, RAG, recommender systems, and audio AI.
+AI Engineer, Applied AI, ML Engineer, and backend-for-AI opportunities, along with collaborations in deep learning, audio AI, RAG, and recommender systems.
